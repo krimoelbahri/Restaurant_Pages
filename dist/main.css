@@ -1,0 +1,15 @@
+header {
+  margin: -10px;
+  position: fixed;
+  height: 120px;
+  background-color: beige;
+  width: -webkit-fill-available;
+}
+footer {
+  position: fixed;
+  margin-left: -9px;
+  bottom: 0;
+  height: 50px;
+  background-color: beige;
+  width: -webkit-fill-available;
+}

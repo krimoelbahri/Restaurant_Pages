@@ -1,1 +1,2 @@
-console.log("it works");
+import {initializeWebsite} from './Page-load';
+initializeWebsite();
