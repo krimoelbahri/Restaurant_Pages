@@ -1,2 +1,2 @@
-import {initializeWebsite} from './Page-load';
-initializeWebsite();
+import {loadWebsite} from './Page-load';
+loadWebsite();
