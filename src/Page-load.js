@@ -73,7 +73,7 @@
  const loadFooter = function(){
     let footer = document.createElement("footer");
     footer.classList.add("footer");
-    footer.innerHTML = "<p>Created By <a href=https://github.com/krimoelbahri> Elbahri </a></p>"
+    footer.innerHTML = "    <p>Copyright © Created by <a href=https://github.com/krimoelbahri> Elbahri </a>. TOP project</p>"
     return footer;
  }
     
