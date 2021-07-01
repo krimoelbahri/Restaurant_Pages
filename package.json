@@ -2,7 +2,7 @@
   "name": "restaurant-page",
   "version": "1.0.0",
   "description": "",
-  "private":"true",
+  "private": "true",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/krimoelbahri/Restaurant_Pages#readme",
   "devDependencies": {
+    "css-loader": "^5.2.6",
+    "style-loader": "^3.0.0",
     "webpack-cli": "^4.6.0"
   }
 }
